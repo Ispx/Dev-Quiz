@@ -25,9 +25,3 @@
   <li><h5>Conecte seu dispositivo móvel na máquina e selecione o mesmo na IDE</h5></li>
   <li><h5>Rode o projeto</h5></li>
 </ul>
-
-## :frowning_man: Autor
-<a href="https://www.linkedin.com/in/isaque-paixao/">Isaque Paixão</a>
-<p>
-<img src="https://img.shields.io/badge/Linkedin-Isaque%20Paix%C3%A3o-0000CD" href="https://www.linkedin.com/in/isaque-paixao/">
-</p>
