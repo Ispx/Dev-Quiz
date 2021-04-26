@@ -1,16 +1,33 @@
-# app
+<html>
+  <h1 align="center">Next Level Week 5</h1>
+  <p align="center">
+    <img src="app/assets/images/nlw.jpg">
+  </p>
+  
+  ## :rocket: Tecnologias
 
-A new Flutter project.
+<ul>
+  <li>Flutter</li>
+  <li>Mobx</li>
+  <li>Share Plus</li>
+</ul>
 
-## Getting Started
+## :information_source: Sobre o projeto
+<p><ul>
+  Trata-se de um aplicativo de quiz para desafiar o usuário a responder perguntas sobre o ecossistema Flutte. 
+  As perguntas estão armazenadas em um repositório do <a href="https://gist.githubusercontent.com/Ispx/8dcb7cd65602ade9ace9bab8a0531b04/raw/55b5d7ea09240a2cf5baa321227048b728aa44e6/quizzes.json">Gist</a> e são dividias em categorias e ao final de cada desafio o usuário pode compartilhar o resultado obtido em outros apps.
+</ul></p>
 
-This project is a starting point for a Flutter application.
+## :information_source: Como rodar o projeto
+<ul>
+  <li><h5>Clone o projeto</h5></li>
+  <li><h5>Abra o mesmo em uma IDE que de suporte ao Flutter</h5></li>
+  <li><h5>Conecte seu dispositivo móvel na máquina e selecione o mesmo na IDE</h5></li>
+  <li><h5>Rode o projeto</h5></li>
+</ul>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :frowning_man: Autor
+<a href="https://www.linkedin.com/in/isaque-paixao/">Isaque Paixão</a>
+<p>
+<img src="https://img.shields.io/badge/Linkedin-Isaque%20Paix%C3%A3o-0000CD" href="https://www.linkedin.com/in/isaque-paixao/">
+</p>
