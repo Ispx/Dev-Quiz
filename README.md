@@ -14,7 +14,7 @@
 
 ## :information_source: Sobre o projeto
 <p><ul>
-  Trata-se de um aplicativo de quiz para desafiar o usuário a responder perguntas sobre o ecossistema Flutte. 
+  Trata-se de um aplicativo de quiz desenvolvido durante a semana da NLW promovida pela RocketSeat. Este app tem por objetivo desafiar o usuário a responder perguntas sobre o ecossistema Flutte. 
   As perguntas estão armazenadas em um repositório do <a href="https://gist.githubusercontent.com/Ispx/8dcb7cd65602ade9ace9bab8a0531b04/raw/55b5d7ea09240a2cf5baa321227048b728aa44e6/quizzes.json">Gist</a> e são dividias em categorias e ao final de cada desafio o usuário pode compartilhar o resultado obtido em outros apps.
 </ul></p>
 
